@@ -1,12 +1,12 @@
 nav{
-    background-color: rgb(23, 28, 173);
+    background-color: rgb(173, 175, 249);
     padding: 8px 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 2px 2px;
     border-radius: 8px;
-    margin: 2px 10px;
+    margin: 10px ;
 }
 .banner{
     color: white;
