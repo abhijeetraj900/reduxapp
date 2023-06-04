@@ -10,7 +10,6 @@
             state.products= action.payload
         }
     }
-    
 })
 
 export const {laodProducts}= productSlice.actions;
